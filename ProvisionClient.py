@@ -3,7 +3,7 @@
 
 """
     File name: ProvisionClient.py
-    Author: Cosma Alessandro
+    Author: Cosma Alessandro; Garau Claudio
     Date created: 05/03/2020
     Date last modified: 06/03/2020
     Python Version: 3.7
